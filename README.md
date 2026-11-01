@@ -221,4 +221,4 @@ Mailspring is available as a full free version, with all features and updates in
 Don't wait any longer! Experience the productivity boost that Mailspring offers by downloading it today!
 
 ---
-**Last updated:** 2026-11-01 19:59:07 UTC
+**Last updated:** 2026-11-01 23:24:37 UTC
